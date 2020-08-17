@@ -54,8 +54,6 @@ function hardRockLyricsHandler() {
                                 } else {
                                     document.getElementById('lyrics-display').innerText = songLyrics;
                                 }
-                                // document.getElementById('fancy-result-area').style.display = "none";
-
                                 document.getElementById('lyrics-display-area').style.display = "block";
                             })
                         })
